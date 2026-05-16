@@ -33,29 +33,10 @@ A computer vision pipeline for detecting humans and cars in drone/aerial imagery
 ---
 
 ## Results
-| Metric | Epoch 20 | Epoch 50 |
-|--------|----------|----------|
-| mAP@0.5 | — | — |
-| mAP@0.5:0.95 | — | — |
-| Precision | — | — |
-| Recall | — | — |
-
-> Fill in values from your Cell 8 output before submitting.
-
----
+Are Given in the file
 
 ## Sample Outputs
-
-### Detection with Counting
-![Detection Grid](outputs/detection_grid.png)
-
-### Dataset Analysis
-![Dataset Analysis](outputs/dataset_analysis.png)
-
-### Evaluation Summary
-![Evaluation](outputs/evaluation_summary.png)
-
----
+Are Given in the file
 
 ## Project Structure
 ```
