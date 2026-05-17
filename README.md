@@ -76,7 +76,7 @@ Are Given in the file
 ---
 
 ## Demo Video
-[[Watch on Google Drive](https://drive.google.com/file/d/1MAg3uJ81xn1Nelpk4nJBvSGKLiXWLFB0/view?usp=drive_link)](#) ← replace with your link
+[[Watch on Google Drive](https://drive.google.com/file/d/1MAg3uJ81xn1Nelpk4nJBvSGKLiXWLFB0/view?usp=drive_link)]
 
 ---
 
